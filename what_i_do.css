@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+a {
+    text-decoration: none; /* Removes the underline from all links */
+    color: rgb(244, 244, 250); /* Sets the color of all links to blue */
+  }
+  
+  a:visited {
+    color: rgb(240, 241, 240); /* Sets the color of visited links to purple */
+  }
+  
+  a:hover {
+    color: rgb(162, 0, 255); /* Sets the color of links on hover to red */
+  }
+  
+  a.active {
+    color: green; /* Sets the color of the activated link to green */
+  }
+  h2.name {
+    color:rgb(244, 244, 250)
+  }
